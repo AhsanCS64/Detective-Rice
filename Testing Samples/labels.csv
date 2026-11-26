@@ -1,0 +1,13 @@
+filename,class_id,original_dataset_path,original_split,group,width,height
+BRRI_dhan49_01.jpg,BD49,BD49/bd49 (283).jpg,test,204,640,480
+BRRI_dhan49_02.jpg,BD49,BD49/bd49 (2).jpg,test,111,640,480
+BRRI_dhan52_01.jpg,BD52,BD52/bd52 (22).jpg,test,634,640,480
+BRRI_dhan52_02.jpg,BD52,BD52/bd52 (132).jpg,test,537,640,480
+BRRI_dhan67_01.jpg,BRRI67,BRRI67/brri67 (159).jpg,test,1066,640,480
+BRRI_dhan67_02.jpg,BRRI67,BRRI67/brri67 (4).jpg,test,1333,640,480
+BRRI_dhan74_01.jpg,BRRI74,BRRI74/brri74 (189).jpg,test,1599,640,480
+BRRI_dhan74_02.jpg,BRRI74,BRRI74/brri74 (160).jpg,test,1568,640,480
+Binadhan-7_01.jpg,Binadhan7,Binadhan7/binadhan07 (361).jpg,test,2291,640,480
+Binadhan-7_02.jpg,Binadhan7,Binadhan7/binadhan07 (149).jpg,test,2055,640,480
+Binadhan-20_01.jpg,Binadhan20,Binadhan20/binadhan20 (475).jpg,test,2917,640,480
+Binadhan-20_02.jpg,Binadhan20,Binadhan20/binadhan20 (246).jpg,test,2663,640,480

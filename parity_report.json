@@ -1,0 +1,23 @@
+{
+  "held_out_images": 495,
+  "matching_top1": 495,
+  "matching_ordered_top3": 495,
+  "pytorch_correct": 489,
+  "onnx_correct": 489,
+  "max_abs_logit_difference": 0.0032930374145507812,
+  "mean_abs_logit_difference": 0.00032399690826423466,
+  "max_preprocessing_delta_vs_original_pytorch_pipeline": 0,
+  "absolute_logit_tolerance": 0.005,
+  "all_logits_within_absolute_tolerance": true,
+  "onnx_runtime_provider": "CPUExecutionProvider",
+  "single_image_dynamic_batch_verified": true,
+  "verification_seconds": 30.313,
+  "versions": {
+    "pytorch": "2.11.0+cu130",
+    "torchvision": "0.26.0+cu130",
+    "onnx": "1.23.2",
+    "onnxruntime": "1.32.0"
+  },
+  "split_manifest_sha256": "3f9ef16ed240228c96c04fd1ab1e4acc985b1c36b23b483ad9e2308327940000",
+  "streamlit_startup_and_engine_switch_smoke_test": "passed"
+}

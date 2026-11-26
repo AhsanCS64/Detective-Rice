@@ -1,0 +1,95 @@
+{
+  "architecture": "torchvision EfficientNet-B0",
+  "architecture_id": "efficientnet_b0",
+  "checkpoint_epoch": 3,
+  "validation_macro_f1": 0.9798827663595558,
+  "checkpoint_source": "Kaggle Detective Rice, run 374163214",
+  "classes": [
+    {
+      "index": 0,
+      "dataset_id": "BD49",
+      "name_en": "BRRI dhan49",
+      "name_bn": "ব্রি ধান৪৯"
+    },
+    {
+      "index": 1,
+      "dataset_id": "BD52",
+      "name_en": "BRRI dhan52",
+      "name_bn": "ব্রি ধান৫২"
+    },
+    {
+      "index": 2,
+      "dataset_id": "BRRI67",
+      "name_en": "BRRI dhan67",
+      "name_bn": "ব্রি ধান৬৭"
+    },
+    {
+      "index": 3,
+      "dataset_id": "BRRI74",
+      "name_en": "BRRI dhan74",
+      "name_bn": "ব্রি ধান৭৪"
+    },
+    {
+      "index": 4,
+      "dataset_id": "Binadhan7",
+      "name_en": "Binadhan-7",
+      "name_bn": "বিনাধান-৭"
+    },
+    {
+      "index": 5,
+      "dataset_id": "Binadhan20",
+      "name_en": "Binadhan-20",
+      "name_bn": "বিনাধান-২০"
+    }
+  ],
+  "preprocessing": {
+    "size": [
+      224,
+      224
+    ],
+    "color_mode": "RGB",
+    "respect_exif_orientation": true,
+    "resize": "aspect-preserving resize with centered padding; no crop",
+    "interpolation": "PIL bilinear",
+    "padding_rgb": [
+      0,
+      0,
+      0
+    ],
+    "centering": [
+      0.5,
+      0.5
+    ],
+    "pixel_scale_divisor": 255,
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "input": {
+    "name": "images",
+    "dtype": "float32",
+    "layout": "NCHW",
+    "shape": [
+      "batch",
+      3,
+      224,
+      224
+    ]
+  },
+  "output": {
+    "name": "logits",
+    "dtype": "float32",
+    "shape": [
+      "batch",
+      6
+    ]
+  },
+  "onnx_opset": 17
+}

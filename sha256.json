@@ -1,0 +1,12 @@
+{
+  "README.md": "ca31bc7eb935ce6891683cef62a6e766faaba162bfe44262ff857f48e07edefa",
+  "app.py": "0205c34c6298f28bb131884beccc73ca6180681007189e09acff58e898b3ab7a",
+  "model_metadata.json": "eed1ec64933fa4c679949178b32cda69ccfb845c0b960e2be47f8e5eac48b714",
+  "parity_predictions.csv": "3097b82fd49ed16310461d060e261f3967d9d34f7dde56780667ff2ecd67e28d",
+  "parity_report.json": "e5ec9b6f26216a48545a7cc45329fde903a6a559786cd9c8224a86cf8bb60870",
+  "requirements-pytorch.txt": "05ae1dd0a66a3ae7b68b567247be56acb77323f1c250b373acebfde17b12ddc7",
+  "requirements.txt": "26f0b6a86b53db91749d5eb7e4c8b135c91cb3f05fc66a7102ea00bc9c3f103e",
+  "rice_inference.py": "fc14a5426b0c158b5948e62d293ce6e88e4e738273ebffdc0e36e9d1694ec451",
+  "rice_variety_model.onnx": "54763dedc62db1781a805538308e6f3b825b0a32488ddd4985e93fb4fa2d3d76",
+  "rice_variety_model.pth": "ed849d4d501d06bc989bcdb3514ef09e7f4e524243dcce8de1d5ef02bbc5c194"
+}

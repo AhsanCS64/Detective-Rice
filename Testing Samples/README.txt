@@ -1,0 +1,1 @@
+Twelve original 640 x 480 JPEGs, two per class, selected from the recorded held-out test split. Images are original bytes. These are demo checks, not an independent dataset or fresh phone photos. Source: Md Tahsin et al., DOI 10.17632/2fgv99854n.1, Kaggle mirror fahadbd/rice-varieties-in-bangladesh. Follow the dataset attribution and license terms.

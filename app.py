@@ -29,7 +29,7 @@ def load_logo(path):
 
 logo = load_logo(LOGO_PATH)
 st.set_page_config(
-    page_title="Detective Rice",
+    page_title="Detective Rice!",
     page_icon=Image.open(BytesIO(logo)) if logo else ":material/search:",
     layout="wide",
     initial_sidebar_state="collapsed",

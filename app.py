@@ -626,7 +626,7 @@ st.markdown(
         <div class="hero-brand">
             {logo_markup}
             <div>
-                <h1 class="hero-title">Detective <span>Rice</span></h1>
+                <h1 class="hero-title">Detective <span>Rice!</span></h1>
                 <p class="hero-copy">
                     Photograph one uncooked, dehusked grain up close on a matte black background.
                 </p>

@@ -40,7 +40,7 @@ Install PyTorch and TorchVision using the command for your platform, then launch
 .venv/bin/python -m streamlit run app.py
 ```
 
-For an ONNX-only setup, skip the PyTorch installation and select **ONNX Runtime** under **Inference engine** before analyzing a photo. The engine selector defaults to **PyTorch**.
+**ONNX Runtime** is the default inference engine and runs with the packages in `requirements.txt`. Install the optional PyTorch dependencies if you want to switch to **PyTorch** in the app.
 
 ## Using the app
 

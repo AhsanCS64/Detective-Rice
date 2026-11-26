@@ -652,7 +652,7 @@ with left_col, st.container(key="rice-upload"):
         unsafe_allow_html=True,
     )
 
-    backend = st.radio("Inference engine", ["PyTorch", "ONNX Runtime"], horizontal=True)
+    backend = st.radio("Inference engine", ["ONNX Runtime", "PyTorch"], horizontal=True)
     upload = st.file_uploader(
         "Grain photo",
         type=["jpg", "jpeg", "png", "webp"],
